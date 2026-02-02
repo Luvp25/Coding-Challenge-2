@@ -1,0 +1,1 @@
+This program tracks the product's stock, demand, and target levels to compute the reorder numbers and cost.
