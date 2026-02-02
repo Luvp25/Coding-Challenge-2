@@ -1,5 +1,5 @@
-let costPerUnit;
-let basePrice;
-let discountRate;
-let salesTaxRate;
-let fixedMonthlyCosts;
+const costPerUnit;
+const basePrice;
+const discountRate;
+const salesTaxRate;
+const fixedMonthlyCosts;
